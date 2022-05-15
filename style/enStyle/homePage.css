@@ -33,7 +33,7 @@ button:hover {
   border-radius: 50px;
 }
 #navbarTogglerDemo02 > ul > li.nav-item:hover,
-.mainBtnEffect {
+.mainBtnEffect:hover {
   background: rgba(255, 255, 255, 0.4);
 }
 
@@ -248,7 +248,8 @@ button:hover {
   background-color: transparent;
   appearance: auto;
 }
-.form-select:hover,.navEff {
+.form-select:hover,
+.navEff {
   background: rgba(255, 255, 255, 0.4);
 }
 .form-select:focus {
